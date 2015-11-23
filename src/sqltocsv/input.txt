@@ -1,0 +1,6 @@
+﻿Data Source=(localdb)\v11.0;Initial Catalog=sample;Integrated Security=true
+
+SELECT [Id],  
+	   [Value],
+	   [DateTime]
+FROM [dbo].[SampleTable]
